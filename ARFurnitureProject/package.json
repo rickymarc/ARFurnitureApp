@@ -1,0 +1,14 @@
+{
+  "name": "ar-testing",
+  "version": "1.0.0",
+  "description": "Fake REST API for testing",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch Assets/Scripts/FurnitureInfo.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

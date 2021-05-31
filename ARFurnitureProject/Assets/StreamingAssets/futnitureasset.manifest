@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2218416460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6e777999060cf2333b3602f52abce7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c5d8728239c5b2dfb84e4bcc6a363eb3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundledAssets/ModelBundle/Couch_William_302.prefab
+- Assets/BundledAssets/ModelBundle/chair2.prefab
+- Assets/BundledAssets/ModelBundle/table1.prefab
+- Assets/BundledAssets/ModelBundle/Chair3.prefab
+- Assets/BundledAssets/ModelBundle/chair1.prefab
+- Assets/BundledAssets/ModelBundle/desk.prefab
+- Assets/BundledAssets/ModelBundle/elegant_quilted_pouf.prefab
+- Assets/BundledAssets/ModelBundle/Sideboard.prefab
+- Assets/BundledAssets/ModelBundle/plant03.prefab
+- Assets/BundledAssets/ModelBundle/Leilani_Tulip_Dining_Table.prefab
+- Assets/BundledAssets/ModelBundle/Rack_Horizon__corona.prefab
+Dependencies: []

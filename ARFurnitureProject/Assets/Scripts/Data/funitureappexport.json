@@ -1,0 +1,292 @@
+{
+  "manufacturer" : [ {
+    "address" : "Jl Jangsri No 23 West Java Indonesia",
+    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Ffandu.PNG?alt=media&token=05fdd119-d041-488d-bac0-f75047b3dfd4",
+    "manufacture_description" : "We are an Indonesia Furniture manufacturer, wholesale supplier based in Jepara Indonesia with decades of experience in the furniture industry. Quality products of international quality standards, export-oriented are made by experts in their fields, producing a complete range of collections for teak indoor furniture and teak outdoor furniture. The manufacturing material is made from the best quality grade teak wood, Grade A, combined with other materials, producing the highest quality and standards in its class.",
+    "manufacturer_id" : "man0",
+    "manufacturer_name" : "Fandu Decor",
+    "web_url" : "https://FanduDecor.com/"
+  }, {
+    "address" : "Jl. Solo No. 12 Kabi 23212 Hukoarjo, Indonesia",
+    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fkerls.PNG?alt=media&token=ad7204fe-59b4-4d39-b140-80fc01ce5bcb",
+    "manufacture_description" : "Our experience in the industry has built a strong character in sustaining and steering our business activities. We keep maintaining growth positively in a balance business culture. Customer satisfaction is our priority and our team will happily work together with you to build a sustainable and mutual business relationship. Hard work, creative, innovative, and continuous improvement are the values that we apply to every element of our business as well as our products and services.",
+    "manufacturer_id" : "man1",
+    "manufacturer_name" : "Kerls Burgundy",
+    "web_url" : "https://www.kerlsburgundy.site/"
+  }, {
+    "address" : "Jl. Raya Bati 333 Dati Arjo 61442 West Java, Indonesia",
+    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fgaga.PNG?alt=media&token=46425a60-5b29-4e5c-a99f-db3f0dae9dee",
+    "manufacture_description" : "Gaga aims to produce fine products with the most efficient way possible. Our end to end-vertically integrated system ensure a cost effective production process. All while ensuring the sustainability of the resources and business.",
+    "manufacturer_id" : "man2",
+    "manufacturer_name" : "Gaga Furniture",
+    "web_url" : "https://www.Gaga-furnit.com/"
+  }, {
+    "address" : "Jeruk Sari Street, Kec. Mlonggo, Kabupaten Jepara, Jawa Tengah",
+    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fwodden.PNG?alt=media&token=4542058a-7f09-4990-87bd-413d5f77d727",
+    "manufacture_description" : "The company was established in 2008 and has progressively grown. Wodden Indonesia is a furniture company that manufactures, assembles and suppliers various kinds of solid teak indoor and outdoor furniture according to your needs. We take pride in providing durable, beautiful furniture solutions to homes, gardens, museums, businesses, parks, hotels and resort across the country.",
+    "manufacturer_id" : "man3",
+    "manufacturer_name" : "Wodden Warehouse",
+    "web_url" : "https://www.Wodden-indonesia.com/"
+  } ],
+  "products" : [ {
+    "assetName" : "chair1",
+    "description" : "Finnish-American architect and designer Eero Saarinen famously hated the sight of many table and chair legs in a room, calling it an \"ugly, confusing, unrestful world.\" In an attempt to streamline these necessary supports, Saarinen developed the Tulip collection, which trades four legs for one central pedestal, supporting a sculptural seat reminiscent of its namesake flower",
+    "dimension" : "0,518 m × 0,773 m × 0,55 m ",
+    "id" : "1",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2Fchair1.png?alt=media&token=2141f4f2-ac0c-472c-929e-c59c0074cd9f",
+    "manufacturer" : {
+	    "address" : "Jl. Solo No. 12 Kabi 23212 Hukoarjo, Indonesia",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fkerls.PNG?alt=media&token=ad7204fe-59b4-4d39-b140-80fc01ce5bcb",
+	    "manufacture_description" : "Our experience in the industry has built a strong character in sustaining and steering our business activities. We keep maintaining growth positively in a balance business culture. Customer satisfaction is our priority and our team will happily work together with you to build a sustainable and mutual business relationship. Hard work, creative, innovative, and continuous improvement are the values that we apply to every element of our business as well as our products and services.",
+	    "manufacturer_id" : "man1",
+	    "manufacturer_name" : "Kerls Burgundy",
+	    "web_url" : "https://www.kerlsburgundy.site/"
+    },
+    "name" : "Basic Republic Chair",
+    "price" : 2000000,
+    "type" : "chair"
+  }, {
+    "assetName" : "chair2",
+    "description" : "It shares the balanced structure of A Chair in the Forest, but opts for a classic woven rattan back for utmost lightness. A Chair Outside the Cage is made by artisan craftsmen from the Hida-Takayama area in Japan, renowned for centuries for their woodworking skills. The result? A chair made of bleached or charcoal gray beech wood that is light, elegant and easy to move.",
+    "dimension" : "0,404m × 0,789 m × 0,385 m",
+    "id" : "2",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2Fchair2.png?alt=media&token=d27c7bb4-6050-4ecd-baa3-eb6d1ef48d53",
+    "manufacturer" : {
+	    "address" : "Jeruk Sari Street, Kec. Mlonggo, Kabupaten Jepara, Jawa Tengah",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fwodden.PNG?alt=media&token=4542058a-7f09-4990-87bd-413d5f77d727",
+	    "manufacture_description" : "The company was established in 2008 and has progressively grown. Wodden Indonesia is a furniture company that manufactures, assembles and suppliers various kinds of solid teak indoor and outdoor furniture according to your needs. We take pride in providing durable, beautiful furniture solutions to homes, gardens, museums, businesses, parks, hotels and resort across the country.",
+	    "manufacturer_id" : "man3",
+	    "manufacturer_name" : "Wodden Warehouse",
+	    "web_url" : "https://www.Wodden-indonesia.com/"
+    },
+    "name" : "Wooden Chair",
+    "price" : 2400000,
+    "type" : "chair"
+  }, {
+    "assetName" : "table1",
+    "description" : "Basic Wood Table is a Dining table made from the finest quality natural (non-oiled) solid teak from managed plantations in Indonesia. Polythene gliders. May be complemented by the bench of the same name, which slides between its legs. Suitable for indoor or outdoor use. Teak is an exceptional wood, timeless and refined. Used in emblematic locations such as the bridges of the finest boats or Asian temples, it possesses excellent technical characteristics: stable, resistant, soft to touch, pleasantly fragrant. Indoors, it patinates over time to a golden brown colour; outdoors, it oxidises to a silver-grey tone - this alters none of its properties.",
+    "dimension" : "0,696 m × 1,88 m × 0,748 m",
+    "id" : "3",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2Ftable1.png?alt=media&token=46b3a7b2-4549-4d61-a5e8-6eebe20ea512",
+    "manufacturer" : {
+	    "address" : "Jl. Raya Bati 333 Dati Arjo 61442 West Java, Indonesia",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fgaga.PNG?alt=media&token=46425a60-5b29-4e5c-a99f-db3f0dae9dee",
+	    "manufacture_description" : "Gaga aims to produce fine products with the most efficient way possible. Our end to end-vertically integrated system ensure a cost effective production process. All while ensuring the sustainability of the resources and business.",
+	    "manufacturer_id" : "man2",
+	    "manufacturer_name" : "Gaga Furniture",
+	    "web_url" : "https://www.Gaga-furnit.com/"
+    },
+    "name" : "Basic Wooden Table",
+    "price" : 4000000,
+    "type" : "table"
+  }, {
+    "assetName" : "Chair3",
+    "description" : "While the frame exploits the inherent lightness and flexibility of ashwood, the seat surround is in beech, which is more close-grained and stronger. The wood parts are created by machine, and hand-finished, glue being applied with a brush, the excess being wiped off, and the seat being hand-woven.",
+    "dimension" : "0,469 m × 0,51 m × 0,807 m",
+    "id" : "4",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2Fchair3.jpg?alt=media&token=e29f1a8e-0b79-4fb2-9a9e-cc29973dae54",
+    "manufacturer" : {
+	    "address" : "Jl Jangsri No 23 West Java Indonesia",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Ffandu.PNG?alt=media&token=05fdd119-d041-488d-bac0-f75047b3dfd4",
+	    "manufacture_description" : "We are an Indonesia Furniture manufacturer, wholesale supplier based in Jepara Indonesia with decades of experience in the furniture industry. Quality products of international quality standards, export-oriented are made by experts in their fields, producing a complete range of collections for teak indoor furniture and teak outdoor furniture. The manufacturing material is made from the best quality grade teak wood, Grade A, combined with other materials, producing the highest quality and standards in its class.",
+	    "manufacturer_id" : "man0",
+	    "manufacturer_name" : "Fandu Decor",
+	    "web_url" : "https://FanduDecor.com/"
+    },
+    "name" : "IA30 Chair",
+    "price" : 1200000,
+    "type" : "chair"
+  }, {
+    "assetName" : "desk",
+    "description" : "An “agile” desk that stores, moves, stretches, and transforms itself A roller allows it to be placed exactly where you need it. At home, to mark the end of a working day and the beginning of your personal world; in offices, schools, professional offices, co-working spaces, in short, wherever the need is felt to redesign the geometry of the rooms and measure distances.",
+    "dimension" : "1.4 m × 0,9 m × 0,577 m",
+    "id" : "5",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2Fdesk.jpg?alt=media&token=c5947802-9e9b-45eb-b674-46a2719c2b98",
+    "manufacturer" : {
+	    "address" : "Jl. Raya Bati 333 Dati Arjo 61442 West Java, Indonesia",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fgaga.PNG?alt=media&token=46425a60-5b29-4e5c-a99f-db3f0dae9dee",
+	    "manufacture_description" : "Gaga aims to produce fine products with the most efficient way possible. Our end to end-vertically integrated system ensure a cost effective production process. All while ensuring the sustainability of the resources and business.",
+	    "manufacturer_id" : "man2",
+	    "manufacturer_name" : "Gaga Furniture",
+	    "web_url" : "https://www.Gaga-furnit.com/"
+    },
+    "name" : "Basic Desk",
+    "price" : 800000,
+    "type" : "desk"
+  }, {
+    "assetName" : "Leilani_Tulip_Dining_Table",
+    "description" : "The base is made of compact rigid polyurethane, a high performance material with advanced technical and aesthetic properties. This technopolymer, in fact, makes it possible to obtain a perfectly clean and even surface, preserving the concrete silhouette of the original project. Onto the stem, finished with textured paint, are rested tops in different shapes in MDF or lacquered wood in various finishes.",
+    "dimension" : "0,777 m × 0,9 m × 0.9 m",
+    "id" : "6",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2FLeilani_Tulip_Dining_Table.png?alt=media&token=4590a832-ce33-4268-a5c1-057d46d85ccc",
+    "manufacturer" : {
+	    "address" : "Jeruk Sari Street, Kec. Mlonggo, Kabupaten Jepara, Jawa Tengah",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fwodden.PNG?alt=media&token=4542058a-7f09-4990-87bd-413d5f77d727",
+	    "manufacture_description" : "The company was established in 2008 and has progressively grown. Wodden Indonesia is a furniture company that manufactures, assembles and suppliers various kinds of solid teak indoor and outdoor furniture according to your needs. We take pride in providing durable, beautiful furniture solutions to homes, gardens, museums, businesses, parks, hotels and resort across the country.",
+	    "manufacturer_id" : "man3",
+	    "manufacturer_name" : "Wodden Warehouse",
+	    "web_url" : "https://www.Wodden-indonesia.com/"
+    },
+    "name" : "Leilan Tulip Dining Table",
+    "price" : 2000000,
+    "type" : "table"
+  }, {
+    "assetName" : "Couch_William_302",
+    "description" : "The loft-style, cushioned sanctuary from freeway traffic fits into the decor schemes of most modern castles, and its low profile and svelte geometry make it easier to divide a room than talking about presidential politics or Spider-Man reboots. With this eight-legged icebreaker, you can shake up your interior traffic patterns and free your reign of sofadom from the chains of walls. Embrace your inner Daenerys Stormborn!",
+    "dimension" : "2.24 m × 0,963 m × 0,958 m",
+    "id" : "7",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2FCouch_William_302.png?alt=media&token=566ebf38-d42d-454f-a069-388f3a403df1",
+    "manufacturer" : {
+	    "address" : "Jl. Solo No. 12 Kabi 23212 Hukoarjo, Indonesia",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fkerls.PNG?alt=media&token=ad7204fe-59b4-4d39-b140-80fc01ce5bcb",
+	    "manufacture_description" : "Our experience in the industry has built a strong character in sustaining and steering our business activities. We keep maintaining growth positively in a balance business culture. Customer satisfaction is our priority and our team will happily work together with you to build a sustainable and mutual business relationship. Hard work, creative, innovative, and continuous improvement are the values that we apply to every element of our business as well as our products and services.",
+	    "manufacturer_id" : "man1",
+	    "manufacturer_name" : "Kerls Burgundy",
+	    "web_url" : "https://www.kerlsburgundy.site/"
+    },
+    "name" : "Couch William 302",
+    "price" : 3900999,
+    "type" : "Couch"
+  }, {
+    "assetName" : "Sideboard",
+    "description" : "The luxuriant finish adds a sense of glamour to the understated grain of the ash, while solid walnut adds gravitas to the body. The leather-covered ornamental handles are the apotheosis of handcrafted precision. Sleek in colour, the slim feet – like the finger-jointed drawers – are yet another indication of the uncompromising drive for perfection. The outcome is refined furniture that creates joy and enriches any interior setting with its singular properties.",
+    "dimension" : "2 m × 1,02 m × 0,744 m",
+    "id" : "8",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2Fsideboard.png?alt=media&token=13449370-acba-4845-9b42-7805c8bf1e0b",
+    "manufacturer" : {
+	    "address" : "Jl. Raya Bati 333 Dati Arjo 61442 West Java, Indonesia",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fgaga.PNG?alt=media&token=46425a60-5b29-4e5c-a99f-db3f0dae9dee",
+	    "manufacture_description" : "Gaga aims to produce fine products with the most efficient way possible. Our end to end-vertically integrated system ensure a cost effective production process. All while ensuring the sustainability of the resources and business.",
+	    "manufacturer_id" : "man2",
+	    "manufacturer_name" : "Gaga Furniture",
+	    "web_url" : "https://www.Gaga-furnit.com/"
+    },
+    "name" : "Sideboard",
+    "price" : 1599000,
+    "type" : "table"
+  }, {
+    "assetName" : "elegant_quilted_pouf",
+    "description" : "Available in high- and low-back versions, the high-backed version of About A Lounge Chair has a more formal expression, while the low-backed shell has a lighter feel, which is emphasized by the low swivel base. Both versions feature the same 4-leg star swivel base. The large choice of upholstery options and base finishes make it suitable for a wide range of public and private contexts. Optional seat cushion mounted with Velcro.",
+    "dimension" : "0,468 × 0,477 m × 0,462 m",
+    "id" : "9",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2Felegant_quilted_pouf.png?alt=media&token=2dfefbbd-1b1d-4c42-a2ef-afe309c8b2f5",
+    "manufacturer" : {
+	    "address" : "Jl Jangsri No 23 West Java Indonesia",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Ffandu.PNG?alt=media&token=05fdd119-d041-488d-bac0-f75047b3dfd4",
+	    "manufacture_description" : "We are an Indonesia Furniture manufacturer, wholesale supplier based in Jepara Indonesia with decades of experience in the furniture industry. Quality products of international quality standards, export-oriented are made by experts in their fields, producing a complete range of collections for teak indoor furniture and teak outdoor furniture. The manufacturing material is made from the best quality grade teak wood, Grade A, combined with other materials, producing the highest quality and standards in its class.",
+	    "manufacturer_id" : "man0",
+	    "manufacturer_name" : "Fandu Decor",
+	    "web_url" : "https://FanduDecor.com/"
+    },
+    "name" : "Elegant Quilted Pouf",
+    "price" : 1599000,
+    "type" : "chair"
+  }, {
+    "assetName" : "Rack_Horizon__corona",
+    "description" : "Much more than a simple piece of furniture: subtle storage pieces that deliver contemporary simplicity. Horizon distinguishing feature is the sleek legs that support the imposing main section. The front panels are available in different materials and/or finishes, which represents a further note of aesthetic contrast.",
+    "dimension" : "1.5 m × 1.8 m × 0,405 m",
+    "id" : "10",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2FRack_Horizon__corona.png?alt=media&token=42c42238-52f0-4040-84fc-21db23bc0d66",
+    "manufacturer" : {
+	    "address" : "Jeruk Sari Street, Kec. Mlonggo, Kabupaten Jepara, Jawa Tengah",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fwodden.PNG?alt=media&token=4542058a-7f09-4990-87bd-413d5f77d727",
+	    "manufacture_description" : "The company was established in 2008 and has progressively grown. Wodden Indonesia is a furniture company that manufactures, assembles and suppliers various kinds of solid teak indoor and outdoor furniture according to your needs. We take pride in providing durable, beautiful furniture solutions to homes, gardens, museums, businesses, parks, hotels and resort across the country.",
+	    "manufacturer_id" : "man3",
+	    "manufacturer_name" : "Wodden Warehouse",
+	    "web_url" : "https://www.Wodden-indonesia.com/"
+    },
+    "name" : "Rack Horizon Corona",
+    "price" : 2999000,
+    "type" : "rack"
+  }, {
+    "assetName" : "plant03",
+    "description" : "Artificial plants are often used on the outside in all those cases where it is not possible to guarantee a constant maintenance. Our outdoors artificial plants are resilient to the UV rays and to the atmospheric agents and has a quality equal to the real.",
+    "dimension" : "0,663 m × 0,672 m × 0,756 m",
+    "id" : "11",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/FurnitureImages%2Fplant.png?alt=media&token=d3a4909d-6c9e-46da-a902-2c97c07f27b9",
+    "manufacturer" : {
+	    "address" : "Jl. Raya Bati 333 Dati Arjo 61442 West Java, Indonesia",
+	    "logo_image" : "https://firebasestorage.googleapis.com/v0/b/funitureapp-832b5.appspot.com/o/Logo%2Fnew%2Fgaga.PNG?alt=media&token=46425a60-5b29-4e5c-a99f-db3f0dae9dee",
+	    "manufacture_description" : "Gaga aims to produce fine products with the most efficient way possible. Our end to end-vertically integrated system ensure a cost effective production process. All while ensuring the sustainability of the resources and business.",
+	    "manufacturer_id" : "man2",
+	    "manufacturer_name" : "Gaga Furniture",
+	    "web_url" : "https://www.Gaga-furnit.com/"
+    },
+    "name" : "Decoration Plant",
+    "price" : 899000,
+    "type" : "misc"
+  } ],
+  "users" : [ {
+    "email" : "rickymarc",
+    "password" : "12345",
+    "userId" : "user1"
+  }, {
+    "email" : "admin",
+    "password" : "12345",
+    "userId" : "user2"
+  }, {
+    "email" : "rickymar",
+    "password" : "12345",
+    "userId" : "user3"
+  }, {
+    "email" : "233",
+    "password" : "333",
+    "userId" : "user4"
+  }, {
+    "email" : "rickymarc2",
+    "password" : "12345",
+    "userId" : "user5"
+  }, {
+    "email" : "rickymarc3",
+    "password" : "12345",
+    "userId" : "user6"
+  }, {
+    "email" : "rickymarc4",
+    "password" : "12345",
+    "userId" : "user7"
+  }, {
+    "email" : "rickymarc5",
+    "password" : "12345",
+    "userId" : "user8"
+  }, {
+    "email" : "rickymarc6",
+    "password" : "12345",
+    "userId" : "user9"
+  }, {
+    "email" : "rickymarc7",
+    "password" : "123",
+    "userId" : "user10"
+  }, {
+    "email" : "",
+    "password" : "1234",
+    "userId" : "user11"
+  }, {
+    "email" : "yes",
+    "password" : "1",
+    "userId" : "user12"
+  }, {
+    "email" : "testingapp",
+    "password" : "12345",
+    "userId" : "user13"
+  }, {
+    "email" : "john",
+    "password" : "12",
+    "userId" : "user14"
+  }, {
+    "email" : "dumb",
+    "password" : "1234",
+    "userId" : "user15"
+  }, {
+    "email" : "dumb1",
+    "password" : "1234",
+    "userId" : "user16"
+  }, {
+    "email" : "acc",
+    "password" : "12",
+    "userId" : "user17"
+  }, {
+    "email" : "new",
+    "password" : "1",
+    "userId" : "user18"
+  } ]
+}
